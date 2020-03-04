@@ -1,4 +1,4 @@
-module github.com/thinker0/go.serversets
+module github.com/frimik/go.serversets
 
 go 1.13
 
